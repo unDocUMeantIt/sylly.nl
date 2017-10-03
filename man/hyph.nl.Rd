@@ -28,6 +28,13 @@ Hyphenation patterns for Dutch to be used by \code{\link[sylly:hyphen]{hyphen}}.
 These data objects are not really intended to be used directly, but rather to be consulted
 by the \code{hyphen()} function without further user interaction.
 }
+\examples{
+\dontrun{
+library(sylly.nl)
+sampleText <- c("dit","is","een","nogal","stom","voorbeeld")
+hyphen(sampleText, hyph.pattern="nl")
+}
+}
 \references{
 Liang, F.M. (1983). \emph{Word Hy-phen-a-tion by Com-put-er}.
   Dissertation, Stanford University, Dept. of Computer Science.

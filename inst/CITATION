@@ -2,12 +2,12 @@ bibentry("Manual",
     title="sylly.nl: Language Support for 'sylly' Package: Dutch",
     author="Meik Michalke",
     year="2017",
-    note="(Version 0.1-1)",
+    note="(Version 0.1-2)",
     url="http://reaktanz.de/?c=hacking&s=koRpus",
 
     textVersion =
     paste("Michalke, M. (2017). ",
-        "sylly.nl: Language Support for 'sylly' Package: Dutch (Version 0.1-1). ",
+        "sylly.nl: Language Support for 'sylly' Package: Dutch (Version 0.1-2). ",
         "Available from http://reaktanz.de/?c=hacking&s=koRpus",
         sep=""),
 
